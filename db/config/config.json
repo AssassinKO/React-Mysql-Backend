@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "video_tutor_dev",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "video_tutor",
+    "password": "videoTUTOR123!@#",
+    "database": "video_tutor",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "quoteIdentifiers": false
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "video_tutor_dev",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
